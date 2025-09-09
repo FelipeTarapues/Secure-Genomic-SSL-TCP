@@ -5,6 +5,6 @@ package org.breaze;
 public class Main {
     public static void main(String[] args) {
         TCPClient client = new TCPClient("127.0.0.1", 2020);
-        client.sendMessage("Simon", "Gaviria");
+        client.sendMessage("Andres", "Montoya");
     }
 }
