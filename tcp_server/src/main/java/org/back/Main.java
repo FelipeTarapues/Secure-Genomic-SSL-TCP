@@ -1,13 +1,14 @@
 package org.back;
-
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+//clave keystore=SHA384withRSA-123456
 public class Main {
-    /** Main class to start the TCP server.
-     * Configures SSL properties and initiates the server on the specified port.
-     */
+
     public static void main(String[] args) {
+        String keyStorePath = "C:\\Users\\thoma\\Desktop\\Universidad\\2025-03\\Backend\\Proyecto1\\Secure-Genomic-SSL-TCP\\Secure-Genomic-SSL-TCP\\tcp_server\\certs\\keystore.jks";
+        String keyStorePassword = "123456";
+        System.setProperty("javax.net.ssl.keyStore", keyStorePath);
+        System.setProperty("javax.net.ssl.keyStorePassword", keyStorePassword);
         TCPServer server = new TCPServer(2020);
+        System.out.println("Starting secure server...");
         server.start();
     }
 }

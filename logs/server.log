@@ -1,0 +1,53 @@
+2025-09-09T11:05:57.4753044 - Servidor SSL concurrente iniciando...
+2025-09-09T11:05:57.5099178 - ERROR CRÍTICO del servidor: database\disease_catalog.csv (El sistema no puede encontrar la ruta especificada)
+2025-09-09T11:06:01.9412253 - Servidor SSL concurrente iniciando...
+2025-09-09T11:06:01.9678812 - ERROR CRÍTICO del servidor: database\disease_catalog.csv (El sistema no puede encontrar la ruta especificada)
+2025-09-09T11:06:05.1262406 - Servidor SSL concurrente iniciando...
+2025-09-09T11:06:05.1637759 - ERROR CRÍTICO del servidor: database\disease_catalog.csv (El sistema no puede encontrar la ruta especificada)
+2025-09-09T11:08:14.2934081 - Servidor SSL concurrente iniciando...
+2025-09-09T11:08:14.3334142 - ERROR CRÍTICO del servidor: C:\Users\thoma\Desktop\Universidad\2025-03\Backend\Proyecto1\Secure-Genomic-SSL-TCP\Secure-Genomic-SSL-TCP\tcp_server\database\diseasesD003.fasta
+2025-09-09T11:10:29.5737437 - Servidor SSL concurrente iniciando...
+2025-09-09T11:10:29.6250239 - 4 enfermedades cargadas exitosamente en la base de datos.
+2025-09-09T11:10:30.3357319 - Servidor seguro iniciado en el puerto: 2020. Esperando conexiones...
+2025-09-09T11:11:52.3363898 - Conexión aceptada desde: /127.0.0.1
+2025-09-09T11:11:52.3573852 - Iniciando manejo para cliente /127.0.0.1 en hilo 22
+2025-09-09T11:11:52.8091824 - Comando 'CREATE_PATIENT' recibido de /127.0.0.1
+2025-09-09T11:11:52.8212196 - Archivo FASTA recibido (380 bytes) para documento 1002590841
+2025-09-09T11:11:52.8255492 - Checksum verificado exitosamente para documento 1002590841
+2025-09-09T11:11:52.8307729 - Formato FASTA verificado exitosamente para documento 1002590841
+2025-09-09T11:11:52.8426174 - Genoma del paciente a3539463-ba8c-4919-b211-1b1de0fc32a6 guardado en: database/patient_genomes/a3539463-ba8c-4919-b211-1b1de0fc32a6.fasta
+2025-09-09T11:11:52.8446345 - Realizando comparación genómica para paciente a3539463-ba8c-4919-b211-1b1de0fc32a6
+2025-09-09T11:18:53.6614219 - Servidor SSL concurrente iniciando...
+2025-09-09T11:18:53.7090988 - 4 enfermedades cargadas exitosamente en la base de datos.
+2025-09-09T11:18:54.3659975 - Servidor seguro iniciado en el puerto: 2020. Esperando conexiones...
+2025-09-09T11:23:13.0024266 - Servidor SSL concurrente iniciando...
+2025-09-09T11:23:13.0719496 - 4 enfermedades cargadas exitosamente en la base de datos.
+2025-09-09T11:23:13.7768373 - Servidor seguro iniciado en el puerto: 2020. Esperando conexiones...
+2025-09-09T11:24:39.2082601 - Conexión aceptada desde: /127.0.0.1
+2025-09-09T11:24:39.2320643 - Iniciando manejo para cliente /127.0.0.1 en hilo 22
+2025-09-09T11:24:39.6285528 - Comando 'CREATE_PATIENT' recibido de /127.0.0.1
+2025-09-09T11:24:39.6399917 - Archivo FASTA recibido (311 bytes) para documento 100276797
+2025-09-09T11:24:39.644025 - Checksum verificado exitosamente para documento 100276797
+2025-09-09T11:24:39.6493439 - Formato FASTA verificado exitosamente para documento 100276797
+2025-09-09T11:24:39.6589404 - Genoma del paciente d4043459-038b-4073-bef8-3199605a98d1 guardado en: database/patient_genomes/d4043459-038b-4073-bef8-3199605a98d1.fasta
+2025-09-09T11:24:39.6609411 - Realizando comparación genómica para paciente d4043459-038b-4073-bef8-3199605a98d1
+2025-09-09T11:26:25.3462026 - Conexión aceptada desde: /127.0.0.1
+2025-09-09T11:26:25.351364 - Iniciando manejo para cliente /127.0.0.1 en hilo 23
+2025-09-09T11:26:25.3767285 - Comando 'CREATE_PATIENT' recibido de /127.0.0.1
+2025-09-09T11:26:25.3787294 - Archivo FASTA recibido (334 bytes) para documento 100479876
+2025-09-09T11:26:25.3807296 - Checksum verificado exitosamente para documento 100479876
+2025-09-09T11:26:25.385003 - Formato FASTA verificado exitosamente para documento 100479876
+2025-09-09T11:26:25.3940029 - Genoma del paciente 122af354-3065-4069-852c-ac5e8848c780 guardado en: database/patient_genomes/122af354-3065-4069-852c-ac5e8848c780.fasta
+2025-09-09T11:26:25.3980041 - Realizando comparación genómica para paciente 122af354-3065-4069-852c-ac5e8848c780
+2025-09-09T11:27:35.2950624 - Conexión aceptada desde: /127.0.0.1
+2025-09-09T11:27:35.300063 - Iniciando manejo para cliente /127.0.0.1 en hilo 24
+2025-09-09T11:27:35.3384919 - Comando 'GET_PATIENT' recibido de /127.0.0.1
+2025-09-09T11:28:09.6648599 - Conexión aceptada desde: /127.0.0.1
+2025-09-09T11:28:09.6689155 - Iniciando manejo para cliente /127.0.0.1 en hilo 25
+2025-09-09T11:28:09.7076414 - Comando 'UPDATE_PATIENT' recibido de /127.0.0.1
+2025-09-09T11:28:32.9153133 - Conexión aceptada desde: /127.0.0.1
+2025-09-09T11:28:32.9167493 - Iniciando manejo para cliente /127.0.0.1 en hilo 26
+2025-09-09T11:28:32.934213 - Comando 'UPDATE_PATIENT' recibido de /127.0.0.1
+2025-09-09T11:29:17.4529578 - Conexión aceptada desde: /127.0.0.1
+2025-09-09T11:29:17.4610297 - Iniciando manejo para cliente /127.0.0.1 en hilo 27
+2025-09-09T11:29:17.4779555 - Comando 'DELETE_PATIENT' recibido de /127.0.0.1
